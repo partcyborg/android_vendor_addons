@@ -247,6 +247,24 @@
     <alias name="samsungone-semi-bold" to="samsungone" weight="600" />
     <alias name="samsungone-bold" to="samsungone" weight="700" />
 
+    <!-- SF-Pro -->
+    <family customizationType="new-named-family" name="sfpro">
+        <font weight="300" style="normal">SF-Pro-Display-Light.ttf</font>
+        <font weight="300" style="italic">SF-Pro-Display-LightItalic.ttf</font>
+        <font weight="400" style="normal">SF-Pro-Display-Regular.ttf</font>
+        <font weight="400" style="italic">SF-Pro-Display-RegularItalic.ttf</font>
+        <font weight="500" style="normal">SF-Pro-Display-Medium.ttf</font>
+        <font weight="500" style="italic">SF-Pro-Display-MediumItalic.ttf</font>
+        <font weight="600" style="normal">SF-Pro-Display-SemiBold.ttf</font>
+        <font weight="600" style="italic">SF-Pro-Display-SemiBoldItalic.ttf</font>
+        <font weight="700" style="normal">SF-Pro-Display-Bold.ttf</font>
+        <font weight="700" style="italic">SF-Pro-Display-BoldItalic.ttf</font>
+     </family>
+     <alias name="sfpro-light" to="sfpro" weight="300" />
+     <alias name="sfpro-medium" to="sfpro" weight="500" />
+     <alias name="sfpro-semi-bold" to="sfpro" weight="600" />
+     <alias name="sfpro-bold" to="sfpro" weight="700" />
+
     <!-- SlateFromOP -->
     <family customizationType="new-named-family" name="oneplusslate">
         <font weight="300" style="normal">SlateFromOP-Light.ttf</font>
